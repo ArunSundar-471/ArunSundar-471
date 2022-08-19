@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arun Sundar.</h1>
 <h3 align="center">I'm passionate about learning New Technology.</h3>
 
-- 🌱 I’m currently learning **Web Development and Python.**
+- 🌱 I’m currently learning **Python and Web Development .**
 
 - 🤝 I’m currently doing **Competitive Programming.**
 
