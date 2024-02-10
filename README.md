@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arun Sundar.</h1>
 <h3 align="center">I'm passionate about learning New Technology.</h3>
 
-- 🌱 I’m currently learning **Python and Web Development .**
+- 🌱 I’m currently learning **Python and Big Data .**
 
 - 🤝 I’m currently doing **Competitive Programming.**
 
@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/arun-sundar-k-a055b5208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arun-sundar-k-a055b5208" height="30" width="40" /></a>
-<a href="https://instagram.com/_sundar_arun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_sundar_arun" height="30" width="40" /></a>
+
 <a href="https://www.codechef.com/users/arunsundar_789" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="arunsundar_789" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/arunsundar471" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="arunsundar471" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/arunsundar471" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arunsundar471" height="30" width="40" /></a>
